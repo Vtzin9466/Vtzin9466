@@ -132,6 +132,10 @@ Me chamo Vitor de Oliveira, atualmente sou estudante de Analise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 />
 
+---
+
+
+####
 
 **`GitHub statistics`**
 <div>
