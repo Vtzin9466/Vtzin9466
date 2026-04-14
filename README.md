@@ -134,12 +134,14 @@ Me chamo Vitor de Oliveira, atualmente sou estudante de Analise e Desenvolviment
 
 
 ###
+
+
 ---
 
 
-###
+### **`GitHub statistics`**
 
-**`GitHub statistics`**
+
 <div>
 <a href="https://github.com/Vtzin9466">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtzin9466&layout=compact&langs_count=7&theme=dracula"/>
