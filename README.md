@@ -136,7 +136,7 @@ Me chamo Vitor de Oliveira, atualmente sou estudante de Analise e Desenvolviment
 
 ---
 
-### **`GitHub statistics`**
+### **`GitHub Statistics`**
 
 
 <div>
